@@ -1,6 +1,8 @@
 #!/bin/bash
 The school is open
-<<<<<<< HEAD
+
+ HEAD
 School school
-=======
->>>>>>> update_script
+
+ update_script
+ master
